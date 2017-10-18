@@ -7,4 +7,5 @@ and more HP.
 
 ## Screenshot
 
+![Screenshot](screenshot.jpg)
 
